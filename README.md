@@ -16,5 +16,6 @@ Die altesten Bauwerke
 1. Pyramiden
 1. Peterskirche 
 1. Uno-City
+Mit dem Kommando `gedit ...` wird der gnome editor getarrtet
 
 Das ist ein Link zu [Wikipedia](https://Wikipedia.com)
